@@ -18,7 +18,7 @@ Vue.js & Django Social Scheduler is a basic social posts sharing tool written in
 13. Imgur integration.
 14. Posts Preview.
 
-### To develop this authentication solution:
+### To develop this project:
 
 For frontend I used Vue.js 3, Vuetify 3.6.10, Vuelidate 2.0.3, Pinia 2.1.7, Axios 1.7.2, js-cookie 3.0.5, Vue I18n 9.13.1, DomPurify 3.1.6 and other libraries.
 
